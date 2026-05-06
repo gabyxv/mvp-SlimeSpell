@@ -29,16 +29,15 @@ Será entregue uma variedade de cenários interativos com o telespectador. (esta
 
 | **Desejável (Could-have)** | Sistema de micro-compras que possibilita seus jogadores com os recursos do jogo comprarem habilidades e skins com as próprias moedas do jogo.
 
-| **Fora do Âmbito (Won't-have)** 
+| **Fora do Âmbito (Won't-have)**: Não terá modo multiplayer, não terá compras no jogo.
 
 ## 4. Stack Tecnológica
 Definição das ferramentas que serão utilizadas pela equipa:
 
-* **Front-end / Mobile:** [Ex: Ionic com React, Kotlin Nativo, ou HTML/CSS]
-* **Back-end (API):** [Ex: Node.js, PHP, Java Spring Boot]
-* **Base de Dados:** * *Relacional:* [Ex: MySQL / PostgreSQL]
-    * *Não-Relacional:* [Ex: MongoDB] (se aplicável)
-* **Controlo de Versão:** GitHub (Utilização de branches `main` e `develop`).
+* **Front-end / Mobile:** Linguagem de programação gd script. 
+* **Back-end (API):** também terá a linguagem de programação gd script.
+* **Base de Dados:** * *Relacional:*: GitHub.
+* **Controlo de Versão:**:git.
 
 ## 5. Modelação da Base de Dados
 *(Dica: Podem anexar aqui o link para o diagrama do BRModelo ou um print do Modelo Relacional)*
