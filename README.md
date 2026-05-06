@@ -19,7 +19,7 @@ Este documento serve como guia para o planeamento e execução do projeto de Des
 * **Diferencial do MVP:** (ainda estamos desenvolendo esta parte)
 * 
 ## 3. Âmbito do MVP (Priorização)
-Utilize a técnica **MoSCoW** para definir o que será entregue nesta primeira versão.
+Será entregue uma variedade de cenários interativos com o telespectador. (estamos em desenvolvimento)
 
 | Categoria | Funcionalidades (O que o sistema faz) | Justificação |
 | :--- | :--- | :--- |
