@@ -7,7 +7,8 @@ Este documento serve como guia para o planeamento e execução do projeto de Des
 
 ## 1. Visão Geral do Projeto
 * **Nome do Sistema:**SlimeSpell
-* **Equipa:** [Nomes dos Alunos e respetivos papéis]
+* **Equipa:**Sofia Jardim e Ana Vitória (Ilustradoras e animadoras), Karolina Gomes e Larissa Sanches (trilhas sonoras e efeitos de áudio), Heitor Bispo e Kevin Gabriel (Avaliadores e auxiliadores na identificação de erros e bugs), Vagner Augusto (programador), Gabriella Ribeiro (Escrivã geral).
+
 * **O Problema (A Dor):** Descreva de forma clara o problema que o sistema resolve. Por que é que este software precisa de existir?
 * **Público-Alvo:** Quem são os utilizadores finais? (Ex: Estudantes do IFSP, donos de pequenos negócios, utilizadores de ginásios).
 
