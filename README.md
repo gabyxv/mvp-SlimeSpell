@@ -7,15 +7,17 @@ Este documento serve como guia para o planeamento e execução do projeto de Des
 
 ## 1. Visão Geral do Projeto
 * **Nome do Sistema:**SlimeSpell
-* **Equipa:**Sofia Jardim e Ana Vitória (Ilustradoras e animadoras), Karolina Gomes e Larissa Sanches (trilhas sonoras e efeitos de áudio), Heitor Bispo e Kevin Gabriel (Avaliadores e auxiliadores na identificação de erros e bugs), Vagner Augusto (programador), Gabriella Ribeiro (Escrivã geral).
+* **Equipe:**Sofia Jardim e Ana Vitória (Ilustradoras e animadoras), Karolina Gomes e Larissa Sanches (trilhas sonoras e efeitos de áudio), Heitor Bispo e Kevin Gabriel (Avaliadores e auxiliadores na identificação de erros e bugs), Vagner Augusto (programador), Gabriella Ribeiro (Escrivã geral).
 
-* **O Problema (A Dor):** Descreva de forma clara o problema que o sistema resolve. Por que é que este software precisa de existir?
-* **Público-Alvo:** Quem são os utilizadores finais? (Ex: Estudantes do IFSP, donos de pequenos negócios, utilizadores de ginásios).
+* **O Problema (A Dor):** O jogo SlimeSpell tem como principal objetivo conscientizar de forma acessível aos seus usuários sobre o descarte correto de resíduos sólidos.
+
+* **Público-Alvo:** Estudantes e professores da Etec Milton Gazzetti.
 
 ## 2. Proposta de Valor
-* **Solução Central:** Em apenas uma frase, o que o sistema faz?
-* **Diferencial do MVP:** Qual é a funcionalidade mínima que permite que o utilizador já consiga usar o sistema para resolver o problema?
+* **Solução Central:** Esperamos que o acesso ao jogo aumente os dados positivos sobre descarte de lixo.
 
+* **Diferencial do MVP:** (ainda estamos desenvolendo esta parte)
+* 
 ## 3. Âmbito do MVP (Priorização)
 Utilize a técnica **MoSCoW** para definir o que será entregue nesta primeira versão.
 
