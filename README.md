@@ -21,12 +21,15 @@ Este documento serve como guia para o planeamento e execução do projeto de Des
 ## 3. Âmbito do MVP (Priorização)
 Será entregue uma variedade de cenários interativos com o telespectador. (estamos em desenvolvimento)
 
-| Categoria | Funcionalidades (O que o sistema faz) | Justificação |
-| :--- | :--- | :--- |
-| **Essencial (Must-have)** | • Ex: Cadastro de usuários e login.<br>• Ex: CRUD de tarefas. | Sem isto o projeto não pode ser apresentado. |
-| **Importante (Should-have)** | • Ex: Recuperação de password.<br>• Ex: Filtro de pesquisa. | Importante, mas o sistema funciona sem isto. |
-| **Desejável (Could-have)** | • Ex: Modo Noturno.<br>• Ex: Exportação para PDF. | "Perfumaria" para ser feita se sobrar tempo. |
-| **Fora do Âmbito (Won't-have)** | • Ex: Integração com IA ou Pagamentos. | Demasiado complexo para o prazo atual. |
+| Categoria | Funcionalidades: O projeto SlimeSpell tem como principal funcionalidade ser um jogo educativo.
+
+| **Essencial (Must-have)** História e gráficos abrangentes para todas as faixas etárias com a finalidade de fácil entendimento.
+
+| **Importante (Should-have)** História envolvente de forma que os usuários realizem uma reflexão sobre a temática "realista" do jogo.
+
+| **Desejável (Could-have)** | Sistema de micro-compras que possibilita seus jogadores com os recursos do jogo comprarem habilidades e skins com as próprias moedas do jogo.
+
+| **Fora do Âmbito (Won't-have)** 
 
 ## 4. Stack Tecnológica
 Definição das ferramentas que serão utilizadas pela equipa:
